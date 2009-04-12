@@ -306,7 +306,7 @@ function tmp_showTwitterSubmitOptions() {
 		</div>
 	</div>
 
-<?
+<?php
 }
 
 /* Process the chosen option when submitting a blog post */
