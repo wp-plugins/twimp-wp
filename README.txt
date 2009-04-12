@@ -10,11 +10,13 @@ Publish blog posts to multiple twitter accounts.
 
 == Description ==
 
-* Publish blog posts to one or more twitter accounts.
-* Shorten links to your blog post with bit.ly (optional).
+* Publish blog posts to **one or more** twitter accounts.
+* **Shorten links** to your blog post with bit.ly (optional).
 * Users can specify their twitter details when editing their profile.
-* Easily customize the twitter message.
-* Decide which user levels can add their twitter details or publish a blog post to twitter.
+* Easily **customize** the twitter message.
+* Decide which **user levels** can add their twitter details or publish a blog post to twitter.
+
+Feature requests and bug reports: jeroen.bolle@gmail.com
 
 == Installation ==
 
